@@ -1,0 +1,6 @@
+domain: shadowsecret.io/shadowsecret
+layout:
+- go.kubebuilder.io/v3
+projectName: shadowsecret
+repo: shadowsecret.com/shadowsecret
+version: "3"
